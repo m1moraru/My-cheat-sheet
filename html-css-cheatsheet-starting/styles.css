@@ -1,0 +1,63 @@
+
+.thead {
+    text-align: center;
+    font-weight: bolder;
+}
+
+body {
+    margin: 20px;
+    background-color: hsla(39, 96%, 79%, 0.5);
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: auto;
+    border: solid 1px #fdce9c;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
+
+}
+
+th, td {
+    border: 1px solid #fdce9c;
+    height: 20px;
+    padding: 8px;
+    text-align: left;
+    background-color: #fef3e2;
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+th {
+    background-color: #fdc795;
+    height: 30px;
+    font-size: 17px;
+}
+
+.tdata {
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: "Cascadia Code";
+}
+
+.description {
+    font-size: 15px;
+    font-family: "Mali", cursive;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 0.6px;
+}
+
+tr {
+    height: 40px;
+}
+
+#tAttributes {
+    margin-top: 1.3em;
+    margin-bottom: 0.8em;
+}
